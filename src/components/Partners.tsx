@@ -5,8 +5,8 @@ import Button from './ui/Button';
 const Partners: React.FC = () => {
   const partners = [
     {
-      name: 'Google',
-      logo: 'https://images.pexels.com/photos/5063385/pexels-photo-5063385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      name: 'XyberXecurity',
+      logo: 'https://i.ibb.co/DHgRRYb6/xxbgremove.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     },
     {
       name: 'Microsoft',
