@@ -9,12 +9,12 @@ const Partners: React.FC = () => {
       logo: 'https://i.ibb.co/DHgRRYb6/xxbgremove.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     },
     {
-      name: 'Microsoft',
+      name: 'Google Indonesia',
       logo: 'https://images.pexels.com/photos/5063386/pexels-photo-5063386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     },
     {
-      name: 'Amazon',
-      logo: 'https://images.pexels.com/photos/5063387/pexels-photo-5063387.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      name: 'Google Indonesia',
+      logo: 'https://i.ibb.co/gLZG7tLd/Exn46-Mk-Vo-AMCyh0.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     },
     {
       name: 'Meta',
