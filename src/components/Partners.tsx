@@ -17,8 +17,8 @@ const Partners: React.FC = () => {
       logo: 'https://i.ibb.co/gLZG7tLd/Exn46-Mk-Vo-AMCyh0.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     },
     {
-      name: 'Meta',
-      logo: 'https://images.pexels.com/photos/5063388/pexels-photo-5063388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      name: 'Microsoft',
+      logo: 'https://i.ibb.co/yFKvw1n1/1708533802microsoft-logo-transparent.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     },
   ];
 
