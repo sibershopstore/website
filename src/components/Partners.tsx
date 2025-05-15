@@ -9,8 +9,8 @@ const Partners: React.FC = () => {
       logo: 'https://i.ibb.co/DHgRRYb6/xxbgremove.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     },
     {
-      name: 'Google Indonesia',
-      logo: 'https://images.pexels.com/photos/5063386/pexels-photo-5063386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      name: 'Meta',
+      logo: 'https://i.ibb.co/nsbCsZV4/meta-logo.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     },
     {
       name: 'Google Indonesia',
